@@ -1,0 +1,11 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: https://cybersecuritychallenge.lu/
+
+deploy:
+- rsync -aze ssh --delete ./ pst@c-3.lu:/var/www/ecsc/www/ 
+
+
+
