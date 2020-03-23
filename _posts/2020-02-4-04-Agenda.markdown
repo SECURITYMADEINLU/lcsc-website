@@ -1,0 +1,15 @@
+---
+layout: default
+img: coding.jpg
+category: Services
+title: Agenda
+description: |
+---
+
+<h4>03.04.2020</h4>
+first day
+
+<h4>04.04.2020</h4>
+second day
+
+<b>Stay tuned for details...</b>

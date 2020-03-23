@@ -2,16 +2,15 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: Your Awesome Site
-email: your-email@domain.com
-author: Your Name
+url: https://cybersecuritychallenge.lu
+title: LËTZ CYBERSECURITY CHALLENGE
+email: info@securitymadein.lu
+author: pst
 description: > # "Write an awesome description for your new site here. 
-  You can edit this line in _config.yml. It will appear in your document 
-  head meta (for Google search results) and in your feed.xml site 
-  description.
-copyright: 'Copyright &copy; 2015 Your Name. All Rights Reserved.'
-credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
+  You are a student or a professional and passionate by hacking? Don't miss this adventure!
+  The Luxembourg Cybersecurity Challenge is organized by C3, the Cybersecurity Competence Center Luxembourg.
+  This competition targets open-minded creative digital natives. Our aim is not only to find talents but encourage young people to pursue a career in cybersecurity and related disciplines.
+copyright: 'Copyright &copy; 2020 [SECURITYMADEIN.LU](https://securitymadein.lu/)'
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -26,9 +25,11 @@ permalink: pretty
 # ----------------------- #
 
 social:
+  - title: envelope
+    url: mailto:info@securitymadein.lu
   - title: twitter
-    url: https://twitter.com/SBootstrap
+    url: https://twitter.com/@CSCLuxembourg
   - title: github
-    url: https://github.com/IronSummitMedia/startbootstrap
+    url: https://github.com/CSCLuxembourg
   - title: linkedin
-    url: 
+    url: https://www.linkedin.com/showcase/cscluxembourg/
