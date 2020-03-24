@@ -3,13 +3,19 @@ layout: default
 img: coding.jpg
 category: Services
 title: Agenda
-description: |
+description: ''
+
 ---
+**This online Jeopardy CTF is divided into two parts:**
 
-<h4>03.04.2020</h4>
-first day
+#### Part 1
 
-<h4>04.04.2020</h4>
-second day
+Start on _03/04/2020 at 18:00_
 
-<b>Stay tuned for details...</b>
+End _04/04/2020 at 6:00_
+
+#### Part 2
+
+Start on _04/04/2020 at 12:00 (noon)_
+
+End on _04/04/2020 at 24:00 (midnight)_
